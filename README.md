@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fmarque
 - 👀 I’m interested in design and coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C
 - 📫 How to reach me : marquezfrances@icloud.com
 
 <!---
