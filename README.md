@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fmarque
+- 👋 Hi, I’m Frances!
 - 👀 I’m interested in design and coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me : marquezfrances@icloud.com
 
 <!---
