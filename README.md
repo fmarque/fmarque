@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Frances!
-- I’m interested in design and coding
-- Currently learning JavaScript and expanding my AI skillset
-- Reach me at : marquezfrances@icloud.com
+- I’m interested in the fields of UI/UX, Web Development, and AI
+- Currently learning JavaScript and expanding my AI skillset with Python
+- Reach me at: marquezfrances@icloud.com
