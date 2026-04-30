@@ -2,7 +2,11 @@
 Hello, World! I'm Frances, a CS & Philosophy graduate from Western University.
 
 ## Interests:
-<br>> AI / ML<br>> Embedded Software Development<br>> Tech for Social Good<br><br>🌱 I’m currently learning Arduino
+> AI / ML
+> Embedded Software Development
+>  Tech for Social Good
+
+🌱 I’m currently learning Arduino
 
 
 ## 🌐 Socials:
