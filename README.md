@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Frances!
-- I’m interested in the fields of UI/UX, Web Development, and AI
-- Currently learning JavaScript and expanding my AI skillset with Python
-- Reach me at: marquezfrances@icloud.com
+# 💫 About Me:
+Hello, World! I'm Frances, a CS & Philosophy graduate from Western University.<br><br>Interests:<br>> AI / ML<br>> Embedded Software Development<br>> Tech for Social Good<br><br>🌱 I’m currently learning Arduino
 
 
 ## 🌐 Socials:
