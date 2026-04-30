@@ -2,7 +2,7 @@
 Hello, World! I'm Frances, a CS & Philosophy graduate from Western University.
 
 ## Interests:
-> AI / ML
+<br><br>> AI / ML
 > Embedded Software Development
 >  Tech for Social Good
 
